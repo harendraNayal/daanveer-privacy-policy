@@ -1,61 +1,82 @@
-# Privacy Policy for Daanveer
+# Privacy Policy for Daanveer  
+**Last Updated: April 2026**
 
-Last Updated: March 2026
+## 1. Introduction  
+Daanveer ("we", "our", or "us") operates the Daanveer mobile application.  
 
-Daanveer ("we", "our", or "us") operates the Daanveer mobile application.
+This Privacy Policy explains how we collect, use, and protect your information when you use our app. By using the app, you agree to this policy.
 
-This page informs users regarding our policies on the collection, use, and disclosure of personal information when using our Service.
+## 2. Information We Collect  
 
-By using the app, you agree to the collection and use of information in accordance with this policy.
+### 2.1 Personal Information  
+We may collect the following details provided by users:  
+- Name  
+- Phone number  
+- Email address  
+- Address  
+- User ID  
 
-## Information We Collect
+### 2.2 Photos and Media  
+Users can:  
+- Capture photos using the camera  
+- Upload images from the gallery  
 
-### Personal Information
-We may collect:
-- Name
-- Phone number
-- Email address (if provided)
+These are used for donation listings and related features.
 
-### Location Data
-The app may collect location data to show nearby donation opportunities and requests.
+### 2.3 Location Data  
+We may collect location data (precise or approximate) to:  
+- Show nearby donation opportunities  
+- Help with pickup and delivery coordination  
 
-### Device Information
-We may collect limited device information, such as:
-- Device model
-- OS version
-- App version
+### 2.4 Device Information  
+We may collect limited device data, such as:  
+- Device model  
+- Operating system version  
+- App version  
 
-## How We Use Information
+## 3. How We Use Information  
+We use collected data to:  
+- Provide and improve app functionality  
+- Enable donation and request features  
+- Manage user accounts  
+- Allow uploading and viewing of donation items  
+- Facilitate communication between users  
+- Provide location-based services  
+- Send notifications  
+- Prevent fraud and misuse  
 
-We use the collected information to:
-- Provide and improve the app
-- Enable donation and request features
-- Send notifications
-- Prevent misuse
+## 4. Permissions We Use  
 
-## Third Party Services
+### 4.1 Camera  
+Used to capture photos for donation listings  
 
-The app may use third-party services, including:
+### 4.2 Photos/Media  
+Used to upload images from the device gallery  
 
-- Google Firebase
-- Google Play Services
+### 4.3 Location  
+Used to provide nearby services and coordination  
 
-These services may collect information used to identify you.
+These permissions are only used for core app functionality.
 
-## Data Security
+## 5. Data Sharing  
+We do not sell user data.  
 
-We strive to use commercially acceptable means to protect your personal information.
+We may share data with trusted third-party services for app functionality:  
+- Google Firebase  
+- Google Play Services  
 
-## Children's Privacy
+These services handle data as per their own privacy policies.
 
-The app is not intended for children under 13.
+## 6. Data Security  
+We use reasonable security measures to protect user data. However, no system is completely secure.
 
-## Changes to This Privacy Policy
+## 7. Children's Privacy  
+Daanveer is not intended for children under 13 years of age. We do not knowingly collect data from children.
 
-We may update this policy from time to time.
+## 8. Changes to This Policy  
+We may update this Privacy Policy from time to time. Please review it periodically.
 
-## Contact Us
+## 9. Contact Us  
+If you have any questions, contact us at:  
 
-If you have any questions, contact us at:
-
-danvirind@gmail.com
+**Email:** danvirind@gmail.com
