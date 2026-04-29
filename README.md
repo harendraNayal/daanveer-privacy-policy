@@ -1,8 +1,8 @@
-# Privacy Policy for Daanveer  
+# Privacy Policy for Danvirs  
 **Last Updated: April 2026**
 
 ## 1. Introduction  
-Daanveer ("we", "our", or "us") operates the Daanveer mobile application.  
+Danvirs ("we", "our", or "us") operates the Danvirs mobile application.  
 
 This Privacy Policy explains how we collect, use, and protect your information when you use our app. By using the app, you agree to this policy.
 
@@ -71,7 +71,7 @@ These services handle data as per their own privacy policies.
 We use reasonable security measures to protect user data. However, no system is completely secure.
 
 ## 7. Children's Privacy  
-Daanveer is not intended for children under 13 years of age. We do not knowingly collect data from children.
+Danvirs is not intended for children under 13 years of age. We do not knowingly collect data from children.
 
 ## 8. Changes to This Policy  
 We may update this Privacy Policy from time to time. Please review it periodically.
